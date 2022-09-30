@@ -1,0 +1,8 @@
+C:\Project\readandwrite\readandwrite\bin\Debug\readandwrite.exe.config
+C:\Project\readandwrite\readandwrite\bin\Debug\readandwrite.exe
+C:\Project\readandwrite\readandwrite\bin\Debug\readandwrite.pdb
+C:\Project\readandwrite\readandwrite\obj\Debug\readandwrite.csproj.AssemblyReference.cache
+C:\Project\readandwrite\readandwrite\obj\Debug\readandwrite.csproj.SuggestedBindingRedirects.cache
+C:\Project\readandwrite\readandwrite\obj\Debug\readandwrite.csproj.CoreCompileInputs.cache
+C:\Project\readandwrite\readandwrite\obj\Debug\readandwrite.exe
+C:\Project\readandwrite\readandwrite\obj\Debug\readandwrite.pdb
